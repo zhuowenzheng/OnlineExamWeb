@@ -17,7 +17,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
     <meta name="renderer" content="webkit"/>
-    <title>知识和习题学习平台</title>
+    <title>Java学习平台</title>
     <link rel="stylesheet" href="htstyle/css/pintuer.css"/>
     <link rel="stylesheet" href="htstyle/css/admin.css"/>
     <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">

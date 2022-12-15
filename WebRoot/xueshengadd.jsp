@@ -6,7 +6,7 @@
 
 
 <script src="js/jquery.validate.js"></script><div>
-    <div class="container "   style="background: #fff" > <!-- 使用bootstrap css框架，container定宽，并剧中 https://v3.bootcss.com/css/#overview-container -->
+    <div class="container "   style="background: #fff" > <!-- 使用bootstrap css框架，container定宽，并居中 https://v3.bootcss.com/css/#overview-container -->
      <div class="row">
         <div class="col-xs-12 col-md-12">
             <div class="zp-bti-z  "   style="background: #fff" >

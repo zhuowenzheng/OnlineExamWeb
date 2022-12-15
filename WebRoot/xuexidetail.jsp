@@ -26,9 +26,7 @@
                         <%=map.get("xueximingchen")%>
                     </div>
                     <div class="news-qitaziduan">
-                        <span>学习编号：<%=map.get("xuexibianhao")%>
-</span><span>学习时长：<%=map.get("xuexishichang")%>
-</span>
+                        <!-- -->
                     </div>
                     <div class="news-neirong">
                         <%=map.get("xuexijieshao")%>
@@ -101,7 +99,6 @@
                                 isShuxiang: true, // false 横向摆放、true 一行一个选项
                                 //jiexi: 'daanjieshi', // 设置解析字段 没有就去掉
                                 zhengquedaan: 'zhengquedaan', // 设置正确答案字段
-                                kaoshishichang:<%=map.get("xuexishichang")%>, // 设置考试时长，没有则去掉
                                 isRequired: true, // 是否所有的题目都要选择后才可以提交
                                 submit: function (result, zongdefen, leixingdefen, time) {
                                     var index = layer.load(0, {

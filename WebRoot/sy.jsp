@@ -3,7 +3,7 @@
 <html>
 <head>
 
-    <title>知识和习题学习平台</title>
+    <title>Java学习平台</title>
    <%-- <LINK href="images/style.css" type=text/css rel=stylesheet>--%>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <style type="text/css">

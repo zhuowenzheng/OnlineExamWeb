@@ -25,14 +25,12 @@
                         <%=map.get("xueximingchen")%>
                     </div>
                     <div class="news-qitaziduan">
-                        <span>学习编号：<%=map.get("xuexibianhao")%><br>
-</span><span>学习名称：<%=map.get("xueximingchen")%><br>
-</span><span>答题编号：<%=map.get("datibianhao")%><br>
+
 </span><span>单选题得分：<%=map.get("danxuantidefen")%><br>
 </span><span>多选题得分：<%=map.get("duoxuantidefen")%><br>
                         </span><span>填空题得分：<%=map.get("tiankongtidefen")%><br>
 </span><span>总得分：<%=map.get("zongdefen")%><br>
-</span><span>学习时间：<%=map.get("xuexishijian")%><br>
+
 </span><span>答题人：<%=map.get("datiren")%><br>
 </span>
                     </div>
